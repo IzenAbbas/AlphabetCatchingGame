@@ -25,5 +25,5 @@ The random number generation for the starting position of the characters is hand
 ### Score:
 The score is displayed at the top right of the screen. Each time the player catches a falling character, the score increases by 1.
 
-# Game Over:
+### Game Over:
 The game ends when the player misses 10 falling characters. Upon game over, the program terminates, and DOSBox returns to its normal prompt.
